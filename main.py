@@ -1,6 +1,6 @@
 # --------------------------------------------- #
 # Plugin Name           : TelegramAirdropBot    #
-# Author Name           : fabston               #
+# Author Name           : AhadJanSamo               #
 # File Name             : main.py               #
 # --------------------------------------------- #
 
